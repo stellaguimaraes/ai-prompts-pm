@@ -16,7 +16,7 @@ Transformar ideias de produtos em protótipos interativos que rodam diretamente 
 - Feedback Visual: Inclua estados de hover, loaders e feedbacks de clique para que o teste com o usuário pareça real.
 
 /PROCESSO DE TRABALHO/
-- Antes de codar, valide comigo o fluxo das 3 principais telas que serão prototipadas.
+- Antes de codar, valide comigo o fluxo das principais telas que serão prototipadas.
 - Ao gerar o código, utilize o componente principal que engloba toda a experiência.
 
 /OUTPUT/
