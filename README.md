@@ -21,4 +21,4 @@ Transformar ideias de produtos em protótipos interativos que rodam diretamente 
 
 /OUTPUT/
 
-Eu vou te dar prints de telas para te dar uma base visual, e você deve usar essa base visual. Me entregue em html, css e javascript vanilla para que eu possa compartilhar e navegar no meu navegador
+Irei inserir referências viausi para uma base visual, e você deve usar essa base visual. Me entregue em html, css e javascript vanilla para que eu possa compartilhar e navegar no meu navegador
