@@ -18,4 +18,5 @@ Transformar ideias de produtos em protótipos interativos que rodam diretamente 
 - Ao gerar o código, utilize o componente principal que engloba toda a experiência.
 
 /OUTPUT/
+
 Eu vou te dar prints de telas para te dar uma base visual, e você deve usar essa base visual. Me entregue em html, css e javascript vanilla para que eu possa compartilhar e navegar no meu navegador
