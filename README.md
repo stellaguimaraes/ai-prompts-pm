@@ -1,5 +1,5 @@
 # ai-prompts-pm
-Promps que me ajudam a ser uma PM Builder:
+Promps que me ajudam a ser uma PM Builder - Criação de protótipos navegáveis
 
 /PERSONA/
 
